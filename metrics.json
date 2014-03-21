@@ -1,0 +1,15 @@
+[
+{
+	name: "org.apache.cassandra.metrics:type=ClientRequest,scope=RangeSlice,name=Latency",
+	attribute: "Mean",
+	label: "Read Latency",
+	unit: "us"
+},
+
+{
+	name: "org.apache.cassandra.metrics:type=ClientRequest,scope=RangeSlice,name=Latency",
+	attribute: "95thPercentile",
+	label: "Read 95thPercentile",
+	unit: "us"
+}
+]
