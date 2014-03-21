@@ -4,12 +4,9 @@
  * and open the template in the editor.
  */
 
-package metric_test;
+package gr.cslab;
 
 import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.management.MBeanException;
 import javax.management.MBeanServerConnection;
 import javax.management.MalformedObjectNameException;
 import javax.management.ObjectName;
